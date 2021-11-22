@@ -13,7 +13,7 @@ This project uses GitHub Issues to track bugs and feature requests. Please searc
 
 This project welcomes contributions and suggestions and has adopted the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html).
 
-For more information see `CONTRIBUTING.md`
+For more information see <./.github/CONTRIBUTING.md>
 
 ## Trademarks
 
