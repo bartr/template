@@ -12,7 +12,7 @@ If you find a bug in the source code or a mistake in the documentation, you can 
 
 Before you submit an issue, search the archive, maybe your question was already answered.
 
-If your issue appears to be a bug, and hasn't been reported, open a [new issue](../../..issues)
+If your issue appears to be a bug, and hasn't been reported, open a [new issue](../../../issues)
 
 ### Submitting a Pull Request (PR)
 
