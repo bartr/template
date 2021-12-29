@@ -3,7 +3,11 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
-- This is a GitHub Template for my repos
+- This is a GitHub Template for my new repos
+- It contains
+  - GitHub templates
+  - Codespaces support
+  - Community docs
 
 ## Support
 
